@@ -1,0 +1,17 @@
+# Arduino / PlatformIO / macOS ignores
+*.swp
+*.swo
+*.tmp
+*.log
+.DS_Store
+.vscode/
+.idea/
+build/
+.pio/
+*.bak
+*.zip
+
+# OS files
+Thumbs.db
+ehthumbs.db
+Icon?
