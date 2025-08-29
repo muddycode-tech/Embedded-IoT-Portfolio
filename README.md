@@ -86,8 +86,6 @@ water-level-controller/
 │  └─ water_level_controller.ino
 ├─ docs/
 │  └─ wiring-notes.md
-├─ hardware/
-│  └─ (place schematics/PCBs here if you add them)
 ├─ .gitignore
 └─ README.md
 ```
